@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek/harmony/proprietary/vendor/bin/akmd8975:$(TARGET_COPY_OUT_VENDOR)/bin/akmd8975 \
     vendor/mediatek/harmony/proprietary/vendor/bin/ami304d:$(TARGET_COPY_OUT_VENDOR)/bin/ami304d \
     vendor/mediatek/harmony/proprietary/vendor/bin/bclient:$(TARGET_COPY_OUT_VENDOR)/bin/bclient \
-    vendor/mediatek/harmony/proprietary/vendor/bin/blocks-core-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/blocks-core-daemon \
     vendor/mediatek/harmony/proprietary/vendor/bin/bmm050d:$(TARGET_COPY_OUT_VENDOR)/bin/bmm050d \
     vendor/mediatek/harmony/proprietary/vendor/bin/ccci_fsd:$(TARGET_COPY_OUT_VENDOR)/bin/ccci_fsd \
     vendor/mediatek/harmony/proprietary/vendor/bin/ccci_mdinit:$(TARGET_COPY_OUT_VENDOR)/bin/ccci_mdinit \
@@ -36,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek/harmony/proprietary/vendor/bin/md_ctrl:$(TARGET_COPY_OUT_VENDOR)/bin/md_ctrl \
     vendor/mediatek/harmony/proprietary/vendor/bin/memsicd:$(TARGET_COPY_OUT_VENDOR)/bin/memsicd \
     vendor/mediatek/harmony/proprietary/vendor/bin/memsicd3416x:$(TARGET_COPY_OUT_VENDOR)/bin/memsicd3416x \
-    vendor/mediatek/harmony/proprietary/vendor/bin/modulecom-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/modulecom-daemon \
     vendor/mediatek/harmony/proprietary/vendor/bin/msensord:$(TARGET_COPY_OUT_VENDOR)/bin/msensord \
     vendor/mediatek/harmony/proprietary/vendor/bin/muxreport:$(TARGET_COPY_OUT_VENDOR)/bin/muxreport \
     vendor/mediatek/harmony/proprietary/vendor/bin/nvram_agent_binder:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_agent_binder \
@@ -74,13 +72,11 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek/harmony/proprietary/vendor/etc/init/wifi2agps.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi2agps.rc \
     vendor/mediatek/harmony/proprietary/vendor/etc/init/wpa_supplicant.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wpa_supplicant.rc \
     vendor/mediatek/harmony/proprietary/vendor/etc/mtk_omx_core.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/mtk_omx_core.cfg \
-    vendor/mediatek/harmony/proprietary/vendor/etc/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt \
     vendor/mediatek/harmony/proprietary/vendor/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediacodec.policy \
     vendor/mediatek/harmony/proprietary/vendor/etc/wifi/p2p_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/mediatek/harmony/proprietary/vendor/etc/wifi/wpa_supplicant.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant.conf \
     vendor/mediatek/harmony/proprietary/vendor/etc/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/mediatek/harmony/proprietary/vendor/firmware/config.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/config.ini \
-    vendor/mediatek/harmony/proprietary/vendor/firmware/corehub/corehub-ota.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/corehub/corehub-ota.bin \
     vendor/mediatek/harmony/proprietary/vendor/firmware/pcm_deepidle.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/pcm_deepidle.bin \
     vendor/mediatek/harmony/proprietary/vendor/firmware/pcm_sodi.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/pcm_sodi.bin \
     vendor/mediatek/harmony/proprietary/vendor/firmware/pcm_suspend.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/pcm_suspend.bin \
@@ -125,7 +121,6 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek/harmony/proprietary/vendor/lib/libbessound_hd_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbessound_hd_mtk.so \
     vendor/mediatek/harmony/proprietary/vendor/lib/libblisrc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libblisrc.so \
     vendor/mediatek/harmony/proprietary/vendor/lib/libblisrc32.so:$(TARGET_COPY_OUT_VENDOR)/lib/libblisrc32.so \
-    vendor/mediatek/harmony/proprietary/vendor/lib/libblocks.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/libblocks.0.so \
     vendor/mediatek/harmony/proprietary/vendor/lib/libbluetooth_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbluetooth_mtk.so \
     vendor/mediatek/harmony/proprietary/vendor/lib/libbluetoothdrv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbluetoothdrv.so \
     vendor/mediatek/harmony/proprietary/vendor/lib/libbwc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbwc.so \
